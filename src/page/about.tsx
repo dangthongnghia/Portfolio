@@ -89,17 +89,13 @@ export function About() {
             </h2>
             <div className='space-y-4 text-gray-300 font-inter leading-relaxed'>
               <p>
-                I'm a passionate full-stack developer with over 3 years of experience building modern web applications.
-                I love turning complex problems into simple, beautiful, and intuitive solutions.
+                I'm an enthusiastic software developer and IT student at Nha Trang College of Technology, majoring in Applied Software Information Technology. I enjoy learning and building web applications using ASP.NET Core, React, and modern frameworks, with a focus on creating clean, functional, and user-friendly solutions.
               </p>
               <p>
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
-                or sharing knowledge with the developer community. I believe in writing clean, maintainable code and
-                creating user experiences that make a difference.
+                Beyond coding, I love exploring new technologies, working on side projects, and continuously improving my skills to become a full-stack developer. I'm also passionate about UI/UX, ensuring that every application I build is both powerful and enjoyable to use.
               </p>
               <p>
-                My goal is to bridge the gap between technical functionality and user experience, creating applications
-                that are not only powerful but also delightful to use.
+                My goal is to grow into a versatile developer who can bridge technical functionality with real user needs, delivering applications that make a meaningful impact.
               </p>
             </div>
           </div>

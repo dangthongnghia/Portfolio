@@ -91,7 +91,8 @@ function Info() {
 
                   {/* Name & Username */}
                   <h1 className='text-4xl font-bold text-white mb-2 font-inter'>{profile?.name}</h1>
-                  <p className='text-[#21A691] text-xl font-jetbrains mb-6'>@{profile?.login}</p>
+                  <p className='text-[#21A691] text-xl font-jetbrains mb-2 '>@{profile?.login}</p>
+                  <p className='text-xl font-bold text-white mb-6 font-jetbrains'>23/08/2005</p>
 
                   {/* GitHub Stats */}
                   <div className='grid grid-cols-3 gap-4 mb-8'>

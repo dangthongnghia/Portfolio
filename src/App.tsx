@@ -1,5 +1,5 @@
 import './App.css'
-import { Header } from './components/Header'
+// import { Header } from './components/Header'
 import { Projects } from './page/projects'
 import Info from './page/info'
 import { About } from './page/about'
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className='w-full bg-[#060D10]'>
-        <Header />
+        {/* <Header /> */}
         <Info />
         <About />
         <Projects />
