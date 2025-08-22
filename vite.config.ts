@@ -16,7 +16,8 @@ export default defineConfig({
     allowedHosts: [
       'portfolio-c027.onrender.com', 
       'localhost',
-      '127.0.0.1'
+      '127.0.0.1',
+      'dangnghia.me'
     ]
   },
   css: {
